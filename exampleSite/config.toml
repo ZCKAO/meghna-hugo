@@ -85,7 +85,7 @@ name = "themefisher"
 url = "https://themefisher.com/"
 weight = 8
 [params]
-author = "Themefisher"
+author = "JP Mogan"
 description = "協助對總體經濟想法GG的投資人，引導出致勝的財富關鍵！"
 google_analytics_id = "G-1105PX28P3"
 logo = "images/logo.png"
