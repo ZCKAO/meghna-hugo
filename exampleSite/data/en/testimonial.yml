@@ -10,8 +10,8 @@ testimonial:
     date: Dec 26, 2021
     content: 充滿著alpha因子的交易魂，大部分時間都躺在床上幻想
   - name: Zeta Z
-    image: images/client/client-2.jpg
-    image_webp: images/client/client-2.webp
+    image: "/images/s__7798791.jpg"
+    image_webp: images/client/client-2.webp/images/s__7798791.jpg
     date: Dec 26, 2018
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
       minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
