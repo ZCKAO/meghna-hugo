@@ -5,7 +5,9 @@ banner:
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: MacroMicro 財經G平方
-  content: 由一群具有熱忱卻沒有經驗的莘莘學子所組成，涵蓋跨領域且與國際接軌，          協助對總體經濟想法GG的投資人，引導出致勝的財富關鍵！
+  content: |-
+    由一群具有熱忱卻沒有經驗的莘莘學子所組成，涵蓋跨領域且與國際接軌，
+     協助對總體經濟想法GG的投資人，引導出致勝的財富關鍵！
   button:
     enable: true
     label: Explore Us
