@@ -16,8 +16,8 @@ contact:
   contact_form:
     enable: true
     form_action: "#"
-    name: Your Name
-    email: Your Email
-    subject: Subject
-    message: Message
-    submit: Submit
+    name: 你的暱稱
+    email: 你的信箱
+    subject: 主旨
+    message: 回饋內容
+    submit: 提交
