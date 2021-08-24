@@ -8,7 +8,7 @@ skill:
   skill_item:
   - name: 商業發展
     percent: 90%
-  - name: Analysis
+  - name: 數據分析
     percent: 70%
   - name: Design
     percent: 80%
