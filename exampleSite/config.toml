@@ -18,7 +18,7 @@ name = "關於我們"
 url = "#about"
 weight = 1
 [[Languages.en.menu.main]]
-name = "services"
+name = "提供服務"
 url = "#services"
 weight = 2
 [[Languages.en.menu.main]]
