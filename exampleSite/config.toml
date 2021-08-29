@@ -23,7 +23,7 @@ url = "#services"
 weight = 2
 [[Languages.en.menu.main]]
 name = "portfolio"
-url = "#portfolio"
+url = "#skill"
 weight = 3
 [[Languages.en.menu.main]]
 name = "team"
