@@ -30,7 +30,7 @@ name = "團隊成員"
 url = "#testimonial"
 weight = 4
 [[Languages.en.menu.main]]
-name = "blog"
+name = "G平方觀點"
 url = "#blog"
 weight = 6
 [[Languages.en.menu.main]]
