@@ -3,7 +3,7 @@ service:
   enable: true
   title: Our Services
   service_item:
-  - name: GG週報
+  - name: GG雙週報
     icon: ti-world
     content: 涵蓋了全球的時事議題，以及近期將公佈的總經數據
   - name: 陪你讀論文
