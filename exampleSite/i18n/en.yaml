@@ -17,12 +17,8 @@
   translation: 關於我們
 - id: services
   translation: Service
-- id: portfolio
-  translation: Portfolio
 - id: team
   translation: Team
-- id: pricing
-  translation: Pricing
 - id: blog
   translation: Blog
 - id: contact
