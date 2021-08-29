@@ -6,11 +6,11 @@ service:
   - name: GG雙週報
     icon: ti-world
     content: 涵蓋了全球的時事議題，以及近期將公佈的總經數據
-  - name: 陪你讀論文
-    icon: ti-layout
-    content: 從0到無限的教學，帶你用人話讀懂高知識份子的論文
   - name: AZ量化交易
     icon: ti-pulse
     content: |-
       分享Alpha&Zeta量化交易及
       回測紀錄
+  - name: 陪你讀論文
+    icon: ti-layout
+    content: 從0到無限的教學，帶你用人話讀懂高知識份子的論文
