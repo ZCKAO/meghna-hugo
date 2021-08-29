@@ -11,4 +11,6 @@ service:
     content: 從0到無限的教學，帶你用人話讀懂高知識份子的論文
   - name: AZ量化交易
     icon: ti-pulse
-    content: 分享Alpha&Zeta量化交易回測紀錄
+    content: |-
+      分享Alpha&Zeta量化交易及
+      回測紀錄
