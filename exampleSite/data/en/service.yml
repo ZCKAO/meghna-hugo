@@ -1,7 +1,7 @@
 ---
 service:
   enable: true
-  title: Our Services
+  title: 最新獨家觀點
   service_item:
   - name: GG雙週報
     icon: ti-world
