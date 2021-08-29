@@ -6,10 +6,9 @@ service:
   - name: GG週報
     icon: ti-world
     content: 涵蓋了全球的時事議題，以及近期將公佈的總經數據
-  - name: Responsive Design
+  - name: 陪你讀論文
     icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: 從0到無限的教學，帶你用人話讀懂高知識份子的論文
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
