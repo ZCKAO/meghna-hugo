@@ -22,7 +22,7 @@ name = "提供服務"
 url = "#services"
 weight = 2
 [[Languages.en.menu.main]]
-name = "portfolio"
+name = "獨家特色"
 url = "#skills"
 weight = 3
 [[Languages.en.menu.main]]
