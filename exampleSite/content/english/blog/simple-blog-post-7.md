@@ -1,10 +1,10 @@
 ---
-title: "【陪你讀論文】"
-date: 2018-09-12T12:52:36.000+06:00
-image_webp: images/blog/blog-post-3.webp
-image: images/blog/blog-post-3.jpg
-author: John Doe
-description: This is meta description
+title: "【陪你讀論文】Monte Carlo Method"
+date: 2021-08-30T00:00:00+08:00
+image_webp: ''
+image: ''
+author: Alpha Kao
+description: hi
 
 ---
 Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
