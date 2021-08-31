@@ -14,3 +14,7 @@ draft: true
 
 1. 模擬次數越多，出來的結果會愈接近真實值
 2. 利用蒙地卡羅生成的未來隨機股價走勢圖，若與真實的開發策略走勢相距越遠表示發生over-fitting的機率越小。
+
+pip install pandas_datareader
+
+pip install --upgrade pandas
