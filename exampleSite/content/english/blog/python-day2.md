@@ -8,6 +8,8 @@ image_webp = ""
 title = "【金融人】Python財務計算Day2"
 
 +++
+量化研究員具備能力
+
 #### 資料擷取
 
 ffn套件 只要在Yahoo Finance上的資料都可以抓EX 台股 美股 期貨、比特幣...
@@ -37,3 +39,9 @@ asset\["sma5"\].shift(2) < asset\["sma10"\].shift(2)) & (asset\["sma5"\].shift(1
 #### 回測
 
 看出績效較差的部分在哪裡、和最大回檔Max drawdown，或是比較跟buy and hold誰的return比較好，想辦法打敗buy and hold，若績效較不好可以換資產(多資產)或調整參數或是加空單策略(多空不會同時進行，除非日內交易)、檢查程式是否有錯、邏輯上的錯誤
+
+策略
+
+乖離率 booling bands
+
+DD計算方式：asset\["PV"\].cummax().cummin()
