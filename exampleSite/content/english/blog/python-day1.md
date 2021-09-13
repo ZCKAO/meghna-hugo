@@ -8,3 +8,4 @@ image_webp = ""
 title = "【金融人】Python財務計算Day1"
 
 +++
+Quant需要具備哪些能力？
