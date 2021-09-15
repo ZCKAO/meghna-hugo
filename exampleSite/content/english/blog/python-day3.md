@@ -54,3 +54,7 @@ df.describe() 敘述統計 例如平均值 標準差
 `loc` #取出整行或整列的資料
 
 `pct_change() * 100` #算出return rate
+
+World Bank總經資料api
+
+* [https://data.worldbank.org/indicator/NY.GDP.PCAP.KD.ZG](https://data.worldbank.org/indicator/NY.GDP.PCAP.KD.ZG "https://data.worldbank.org/indicator/NY.GDP.PCAP.KD.ZG")
