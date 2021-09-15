@@ -7,6 +7,8 @@ image_webp = ""
 title = "【量化金融人】Python財務計算Day2-1"
 
 +++
+**我們想讓你知道的事：**
+
 Step1 先抓取資料
 
 ### 台灣上市櫃公司資料爬蟲 開高低收、成交量
@@ -45,7 +47,7 @@ EX上市公司財報月營收、三法人買賣日報表、季財報
 
 `df.describe()`  #敘述統計 例如平均值 標準差
 
-`rolling`  #算出均線 
+`rolling`  #算出均線
 
 `df["BIAS"] = (df["Close"] - df["SMA5"]) / df["SMA5"] * 100`
 
@@ -55,7 +57,7 @@ EX上市公司財報月營收、三法人買賣日報表、季財報
 
 `loc` #取出整行或整列的資料
 
-`pct_change() * 100` #算出return rate
+`pct_change() * 100`  #算出return rate
 
 畫出股票的價與量圖
 
@@ -69,7 +71,11 @@ World Bank總經資料api
 
 Step2做回測
 
-### 回測平台相關套件
+#### 使用回測平台相關套件
+
+缺點：需遵循別人的邏輯來將自己的策略套用在他人的平台上，較有限制性且等同於能讓對方看到你的策略。
+
+較建議自己利用迴圈改寫，發展出自己的框架
 
 [**Backtrader**](https://www.backtrader.com/ "Backtrader")
 
