@@ -11,7 +11,7 @@ title = "【量化金融人】Python財務計算Day2"
 
 ### 資料擷取
 
-利用 [**ffn **](https://pmorissette.github.io/ffn/ "ffn")套件：只要在Yahoo Finance上的資料都可以抓，EX：台股、美股、期貨、比特幣...
+利用 [**ffn**](https://pmorissette.github.io/ffn/ "ffn")套件：只要在Yahoo Finance上的資料都可以抓，EX：台股、美股、期貨、比特幣...
 
 ### 資料視覺化
 
