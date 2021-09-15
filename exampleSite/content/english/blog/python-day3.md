@@ -25,31 +25,31 @@ Step1 先抓取資料
 
 EX上市公司財報月營收、三法人買賣日報表、季財報
 
-#### Pandas應用
+#### Pandas常見應用
 
 `df.sort_values`  #資料排序
 
-`pd.to_datetime` #將資料轉換為時間格式
+`pd.to_datetime`  #將資料轉換為時間格式
 
-`df.set_index` #指定某一行為index
+`df.set_index`  #指定某一行為index
 
-df.info() 看統計資料
+`df.info()`  #看統計資料
 
-df.shape 計算維度
+`df.shape`  #計算維度
 
-df.count() 算有幾個raw
+`df.count()`  #算有幾個raw
 
-df.index
+`df.index`  #查看索引
 
-df.columns 看column header有哪些名字
+`df.columns`  #看column header有哪些名字
 
-df.describe() 敘述統計 例如平均值 標準差
+`df.describe()`  #敘述統計 例如平均值 標準差
 
-' 利用rolling算出均線 
+`rolling`  #算出均線 
 
 `df["BIAS"] = (df["Close"] - df["SMA5"]) / df["SMA5"] * 100`
 
-乖離率：現在價格離N日均線的比例超過X%時為進出場點
+\#計算乖離率：現在價格離N日均線的比例超過X%時為進出場點
 
 均值回歸：若乖離率過大，可能會收斂回均線
 
