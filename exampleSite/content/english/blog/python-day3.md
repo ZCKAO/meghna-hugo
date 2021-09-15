@@ -55,6 +55,12 @@ df.describe() 敘述統計 例如平均值 標準差
 
 `pct_change() * 100` #算出return rate
 
+畫出股票的價與量圖
+
+取得yahoo Finance資料可以利用此套件：ffn
+
+* [https://pmorissette.github.io/ffn/](https://pmorissette.github.io/ffn/ "https://pmorissette.github.io/ffn/")
+
 World Bank總經資料api
 
 * [https://data.worldbank.org/indicator/NY.GDP.PCAP.KD.ZG](https://data.worldbank.org/indicator/NY.GDP.PCAP.KD.ZG "https://data.worldbank.org/indicator/NY.GDP.PCAP.KD.ZG")
