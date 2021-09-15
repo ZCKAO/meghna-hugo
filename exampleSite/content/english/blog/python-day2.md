@@ -1,14 +1,13 @@
 +++
 author = ""
 date = ""
-description = ""
-draft = true
+description = "from台大資訊系統訓練班"
 image = ""
 image_webp = ""
-title = "【金融人】Python財務計算Day2"
+title = "【量化金融人】Python財務計算Day2"
 
 +++
-量化研究員具備能力
+量化研究員的具備能力
 
 #### 資料擷取
 
@@ -36,12 +35,14 @@ asset\["sma5"\].shift(2) < asset\["sma10"\].shift(2)) & (asset\["sma5"\].shift(1
 
 今天的收盤價不一定買得到，看得到不一定吃得到，可以用今天的收盤價來建立部位，所以用隔天的價格(open/close)建立部位的成本
 
-#### 回測
+#### 策略發想、回測
 
-看出績效較差的部分在哪裡、和最大回檔Max drawdown，或是比較跟buy and hold誰的return比較好，想辦法打敗buy and hold，若績效較不好可以換資產(多資產)或調整參數或是加空單策略(多空不會同時進行，除非日內交易)、檢查程式是否有錯、邏輯上的錯誤
+看出績效較差的部分在哪裡、和最大回檔Max drawdown，或是比較跟buy and hold誰的return比較好，想辦法打敗buy and hold，若績效較不好可以換資產(多資產)或調整參數或是加空單策略(多空不會同時進行，除非日內交易)、檢查程式端打錯或是邏輯上的錯誤
 
-策略
+調整策略：例如乖離率 booling bands
 
-乖離率 booling bands
+DD是指在沒有過前高的情況下之**最大回檔深度**
 
-DD計算方式：asset\["PV"\].cummax().cummin()
+計算方式：asset\["PV"\].cummax().cummin()
+
+![](/images/2021-09-15-4-32-01.png)  
