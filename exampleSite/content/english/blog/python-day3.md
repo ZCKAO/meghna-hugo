@@ -2,10 +2,9 @@
 author = "Alpha"
 date = 2021-09-14T16:00:00Z
 description = "from台大資訊系統訓練班"
-draft = true
 image = ""
 image_webp = ""
-title = "【金融人】Python財務計算Day3"
+title = "【金融人】Python財務計算Day2-1"
 
 +++
 #### 台灣上市櫃公司資料爬蟲 開高低收、成交量
@@ -24,8 +23,27 @@ title = "【金融人】Python財務計算Day3"
 
 EX上市公司財報月營收
 
-df.sort_values 資料排序
+#### Pandas應用 
 
-pd.to_datetime將資料轉換為時間格式
+`df.sort_values`  #資料排序
+
+`pd.to_datetime  #將資料轉換為時間格式`
 
 df.set_index指定某一行為index
+
+df.info() 看統計資料
+
+df.shape 計算維度
+
+df.count() 算有幾個raw
+
+df.index
+
+df.columns 看column header有哪些名字
+
+df.describe() 敘述統計 例如平均值 標準差
+
+'code'   
+\`code\`
+
+' 利用rolling算出均線 ' 
