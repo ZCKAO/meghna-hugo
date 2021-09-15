@@ -28,6 +28,6 @@ title = "【量化金融人】Python財務計算Day1"
 
 統計、時間序列用較多利用量化分析金融數據，預測未來所以通常是做buy side
 
-##### **2. Q Quant選擇權定價**(Risk-Neutral Probability Measure)
+###### **2. Q Quant選擇權定價**(Risk-Neutral Probability Measure)
 
 風險中立的機率測度：數學主要用到Ito's Lemma/Caculous了解**定價**與**避險**，通常在sellside
