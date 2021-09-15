@@ -64,3 +64,9 @@ df.describe() 敘述統計 例如平均值 標準差
 World Bank總經資料api
 
 * [https://data.worldbank.org/indicator/NY.GDP.PCAP.KD.ZG](https://data.worldbank.org/indicator/NY.GDP.PCAP.KD.ZG "https://data.worldbank.org/indicator/NY.GDP.PCAP.KD.ZG")
+
+### 回測平台
+
+**Backtrader**
+
+Quantop
