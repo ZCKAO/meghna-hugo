@@ -9,7 +9,7 @@ title = "【量化金融人】Python財務計算Day1"
 +++
 > 我們想讓你知道的是：Quant需具備Computer Science + Finance + Math
 
-#### Quant需要具備哪些能力？
+### Quant需要具備哪些能力？
 
     嚴格來說，Quant需具備以下9項能力：
     1. 程式能力
