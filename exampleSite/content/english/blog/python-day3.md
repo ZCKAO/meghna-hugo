@@ -7,6 +7,8 @@ image_webp = ""
 title = "【量化金融人】Python財務計算Day2-1"
 
 +++
+Step1 先抓取資料
+
 ### 台灣上市櫃公司資料爬蟲 開高低收、成交量
 
 爬蟲的資料來源若不乾淨會影響ML做出來的結果
@@ -65,8 +67,20 @@ World Bank總經資料api
 
 * [https://data.worldbank.org/indicator/NY.GDP.PCAP.KD.ZG](https://data.worldbank.org/indicator/NY.GDP.PCAP.KD.ZG "https://data.worldbank.org/indicator/NY.GDP.PCAP.KD.ZG")
 
-### 回測平台
+Step2做回測
 
-**Backtrader**
+### 回測平台相關套件
 
-Quantop
+[**Backtrader**](https://www.backtrader.com/ "Backtrader")
+
+[**Quantopian**](https://github.com/quantopian)
+
+實際上要做研究的話，調整後收盤價才是考慮的部分，因為除權息的部分要列入，否則會低估或是高估策略的表現
+
+Object物件：創造一個東西打包成讓別人可以重複使用的。
+
+主要由兩個部分組成：
+
+1\.date  EX：YYYY/MM/DD、資料
+
+2\.action EX：計算出duration(days)、策略
