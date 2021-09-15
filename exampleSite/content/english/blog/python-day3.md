@@ -7,9 +7,15 @@ image_webp = ""
 title = "【量化金融人】Python財務計算Day2-1"
 
 +++
-**我們想讓你知道的事：**
+> **我們想讓你知道的事：**
 
-Step1 先抓取資料
+**本文重點：**
+
+    Step1. 先抓取資料
+    Step2. 做回測
+
+`Step1. 先抓取資 `  
+`Step2料`
 
 ### 台灣上市櫃公司資料爬蟲 開高低收、成交量
 
@@ -68,8 +74,6 @@ EX上市公司財報月營收、三法人買賣日報表、季財報
 World Bank總經資料api
 
 * [https://data.worldbank.org/indicator/NY.GDP.PCAP.KD.ZG](https://data.worldbank.org/indicator/NY.GDP.PCAP.KD.ZG "https://data.worldbank.org/indicator/NY.GDP.PCAP.KD.ZG")
-
-Step2做回測
 
 #### 使用回測平台相關套件
 
