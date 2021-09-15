@@ -4,10 +4,10 @@ date = 2021-09-14T16:00:00Z
 description = "from台大資訊系統訓練班"
 image = ""
 image_webp = ""
-title = "【金融人】Python財務計算Day2-1"
+title = "【量化金融人】Python財務計算Day2-1"
 
 +++
-#### 台灣上市櫃公司資料爬蟲 開高低收、成交量
+### 台灣上市櫃公司資料爬蟲 開高低收、成交量
 
 爬蟲的資料來源若不乾淨會影響ML做出來的結果
 
@@ -21,15 +21,15 @@ title = "【金融人】Python財務計算Day2-1"
 
 若資料龐大 可利用 黑名單與白名單比對 過濾出自己的stock list
 
-EX上市公司財報月營收
+EX上市公司財報月營收、三法人買賣日報表、季財報
 
-#### Pandas應用 
+#### Pandas應用
 
 `df.sort_values`  #資料排序
 
-`pd.to_datetime  #將資料轉換為時間格式`
+`pd.to_datetime` #將資料轉換為時間格式
 
-df.set_index指定某一行為index
+`df.set_index` #指定某一行為index
 
 df.info() 看統計資料
 
@@ -43,7 +43,14 @@ df.columns 看column header有哪些名字
 
 df.describe() 敘述統計 例如平均值 標準差
 
-'code'   
-\`code\`
+' 利用rolling算出均線 
 
-' 利用rolling算出均線 ' 
+`df["BIAS"] = (df["Close"] - df["SMA5"]) / df["SMA5"] * 100`
+
+乖離率：現在價格離N日均線的比例超過X%時為進出場點
+
+均值回歸：若乖離率過大，可能會收斂回均線
+
+`loc` #取出整行或整列的資料
+
+`pct_change() * 100` #算出return rate
