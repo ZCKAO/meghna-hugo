@@ -1,5 +1,5 @@
 +++
-author = ""
+author = "Alpha"
 date = 2021-09-13T16:00:00Z
 description = "from台大資訊系統訓練班"
 image = "/images/量化研究員應具備的 基本能力.jpg"
@@ -7,9 +7,9 @@ image_webp = "/images/量化研究員應具備的 基本能力.jpg"
 title = "【量化金融人】Python財務計算Day2"
 
 +++
-量化研究員的具備能力
+> 我們想讓你知道的是：量化研究員應具備資料擷取、資料視覺化、策略發想、回測
 
-#### 資料擷取
+### 資料擷取
 
 ffn套件 只要在Yahoo Finance上的資料都可以抓EX 台股 美股 期貨、比特幣...
 
@@ -45,4 +45,4 @@ DD是指在沒有過前高的情況下之**最大回檔深度**
 
 計算方式：asset\["PV"\].cummax().cummin()
 
-![](/images/2021-09-15-4-32-01.png)  
+![](/images/2021-09-15-4-32-01.png)
