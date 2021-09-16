@@ -20,4 +20,6 @@ Numpy 向量化、矩陣操作
 
 linalg
 
+應用：效率前緣的投資組合內N檔資產裡的權重
+
 線性代數推薦影片：[**3blue1brown**](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
