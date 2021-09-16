@@ -10,7 +10,9 @@ title = "【量化金融人】Python財務計算Day3-1"
 +++
 #### 數學工具介紹
 
-Numpy 向量化、矩陣操作
+Numpy 
+
+向量化、矩陣操作 vector matrix
 
 減少寫迴圈的機會，且運算速度較快
 
@@ -23,3 +25,9 @@ linalg
 應用：效率前緣的投資組合內N檔資產裡的權重
 
 線性代數推薦影片：[**3blue1brown**](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+Scipy
+
+內差 最佳化 統計檢定 檢定量 積分
+
+內差：當資料較少時，需要估計中間的值。又分為線性內差或是較平滑的內差`cubic spline`
