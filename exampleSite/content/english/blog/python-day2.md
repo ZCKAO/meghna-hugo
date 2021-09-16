@@ -4,7 +4,7 @@ date = 2021-09-13T16:00:00Z
 description = "from台大資訊系統訓練班"
 image = "/images/量化研究員應具備的 基本能力.jpg"
 image_webp = "/images/量化研究員應具備的 基本能力.jpg"
-title = "【量化金融人】Python財務計算Day2"
+title = "【量化金融人】Python財務計算Day2-1"
 
 +++
 > 我們想讓你知道的是：量化研究員應具備資料擷取、資料視覺化、策略發想、回測

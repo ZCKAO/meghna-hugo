@@ -4,7 +4,7 @@ date = 2021-09-14T05:00:00Z
 description = "from台大資訊系統訓練班"
 image = "/images/1.jpg"
 image_webp = "/images/1.jpg"
-title = "【量化金融人】Python財務計算Day2-1"
+title = "【量化金融人】Python財務計算Day2-2"
 
 +++
 > ##### **我們想讓你知道的是：利用爬蟲抓取證交所公開資料應用於常見的pandas指令以及初學者所使用的回測平台**
