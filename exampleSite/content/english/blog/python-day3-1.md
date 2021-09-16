@@ -10,7 +10,7 @@ title = "【量化金融人】Python財務計算Day3-1"
 +++
 #### 數學工具介紹
 
-Numpy 
+#### Numpy 
 
 向量化、矩陣操作 vector matrix
 
@@ -26,10 +26,12 @@ linalg
 
 線性代數推薦影片：[**3blue1brown**](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
-Scipy
+#### Scipy
 
 內差 最佳化 統計檢定 檢定量 積分
 
 內差：當資料較少時，需要估計中間的值。又分為線性內差或是較平滑的內差`cubic spline`
 
 例如：美國公債殖利率的頻率較少，可透過內差建模用在利率模型
+
+最佳化：成本最小、效用最大
