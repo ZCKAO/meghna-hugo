@@ -15,3 +15,9 @@ Numpy 向量化、矩陣操作
 減少寫迴圈的機會，且運算速度較快
 
 `np.linspace(0, 10, 11)`  #從0出發到10 切成11等分
+
+內積、反矩陣
+
+linalg
+
+線性代數推薦影片：[**3blue1brown**](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
