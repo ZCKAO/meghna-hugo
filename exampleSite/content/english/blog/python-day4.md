@@ -25,6 +25,5 @@ title = "【量化金融人】Python財務計算Day4"
 
 ##### referance
 
-[**Buffett's Alpha**]()：嘗試用6個因子解釋Buffet 怎麼選股票的、可能用了哪些面向選股EX：MTM、信用評等
-
-[**北京量信**](http://www.liang-xin.com/website/w/h?mt=2&mc=3194266&cc=3021364)
+1. [**Buffett's Alpha**]()：嘗試用6個因子解釋Buffet 怎麼選股票的、可能用了哪些面向選股EX：MTM、信用評等
+2. [**北京量信**](http://www.liang-xin.com/website/w/h?mt=2&mc=3194266&cc=3021364)
