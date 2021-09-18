@@ -2,9 +2,8 @@
 author = "Alpha"
 date = 2021-09-09T16:00:00Z
 description = ""
-draft = true
-image = ""
-image_webp = ""
+image = "/images/gg.jpg"
+image_webp = "/images/gg.jpg"
 title = "【GG雙週報】歐央QE減速不減量，從歐洲看全球Q4走勢"
 
 +++
