@@ -2,8 +2,8 @@
 author = "Alpha"
 date = 2021-09-14T16:00:00Z
 description = "from台大資訊系統訓練班"
-image = ""
-image_webp = ""
+image = "/images/常見的統計實務應用.jpg"
+image_webp = "/images/常見的統計實務應用.jpg"
 title = "【量化金融人】Python財務計算Day3"
 
 +++
