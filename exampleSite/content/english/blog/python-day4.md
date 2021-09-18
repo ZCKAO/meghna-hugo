@@ -19,3 +19,7 @@ title = "【量化金融人】Python財務計算Day4"
 #### 三因子模型
 
 用個股的return rate解釋的大盤有點不夠解釋力，是否還可找出其他因子**market cap**和**book-to-market ratio**來解釋超額報酬
+
+referance
+
+[**Buffett's Alpha**]()：嘗試用6個因子解釋Buffet 怎麼選股票的、可能用了哪些面向選股EX：MTM、信用評等
