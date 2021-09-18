@@ -43,7 +43,8 @@ linalg
 
     Step1. 看p-value是否顯著
     Step2. 看coefficience準不準、stander error不要太大
-    Step3. 看殘差、模型配置的好不好 可由Durbin Watson看樣本之間是否有相關性
+    Step3. 看殘差、模型配置的好不好 
+    	   可由Durbin Watson看樣本之間是否有相關性、R-squared
 
 p-value > alpha  無顯著差異，無法拒絕H0
 
