@@ -19,7 +19,7 @@ title = "【量化金融人】Python財務計算Day3"
 
 內積、反矩陣
 
-linalg
+`linalg`
 
 應用：效率前緣的投資組合內N檔資產裡的權重
 
