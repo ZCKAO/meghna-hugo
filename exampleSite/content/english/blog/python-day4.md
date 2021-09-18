@@ -23,7 +23,7 @@ title = "【量化金融人】Python財務計算Day4"
 
 因子之之間最好不要有相關性，否則容易有共線性問題
 
-referance
+##### referance
 
 [**Buffett's Alpha**]()：嘗試用6個因子解釋Buffet 怎麼選股票的、可能用了哪些面向選股EX：MTM、信用評等
 
