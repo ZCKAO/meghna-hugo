@@ -41,4 +41,6 @@ linalg
 
 統計檢定：
 
-p-value > 
+p-value > alpha  無顯著差異，無法拒絕H0
+
+p-value < alpha 此統計量有顯著差異，拒絕H0
