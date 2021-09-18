@@ -39,7 +39,11 @@ linalg
 
 微分透過gradient descent找出全域最佳解Global minimum
 
-統計檢定：
+統計檢定解讀：
+
+看p-value是否顯著
+
+看coefficience準不準、stander error不要太大
 
 p-value > alpha  無顯著差異，無法拒絕H0
 
