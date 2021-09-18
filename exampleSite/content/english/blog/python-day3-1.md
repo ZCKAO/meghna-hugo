@@ -9,7 +9,7 @@ title = "【量化金融人】Python財務計算Day3"
 +++
 #### 數學工具介紹
 
-#### Numpy 
+#### Numpy
 
 向量化、矩陣操作 vector matrix
 
@@ -38,3 +38,7 @@ linalg
 考量到每多一單位的風險他的報酬。
 
 微分透過gradient descent找出全域最佳解Global minimum
+
+統計檢定：
+
+p-value > 
